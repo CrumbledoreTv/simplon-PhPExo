@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+  margin-left: 150px;
+}
+div{
+  margin: 20px;
+}
+img{
+width: 250px;
+height: 200px;
+}
+img:hover{
+  transform:scale(1.1);
+}
